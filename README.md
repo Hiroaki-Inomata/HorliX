@@ -13,6 +13,10 @@ Now HorliX has several features apart from Horos and/or OsiriX Lite:
   
  ‘HorliX’ was named after not only Horos/OsiriX but also ‘Horlicks’ , a female legendary race horse in NZ.
   
+### Web Site
+
+English https://phazor.info/HorliX  
+Japanese https://phazor.info/HorliX-J  
 
 ### Gallery
 
