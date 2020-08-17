@@ -38,3 +38,7 @@ ROI-color-rotation-UI
 ## Licence
 
 LGPLv3
+  
+  
+Hiroaki Inomata, MD  
+猪股弘明
