@@ -1,22 +1,17 @@
 ## HorliX (horos branch)
 
-### OverView
+### HorliX とは？
 
-HorliX is a DICOM Viewer based on Horos/OsiriX.  
-The origin of HorliX is HorosJ which is a japanese version of Horos published in github. One day air-h-128k-il, one of the contributors of HorosJ and Horos projects, changed his source codes in order to run HorosJ/Horos under full 64bit mode.  
-It was when HorliX came into the world.  
-Now HorliX has several features apart from Horos and/or OsiriX Lite:  
+HorliX（ホーリックス）は Horos/OsiriX ベースの DICOM も読める画像ビューアです。  
+もともとは HorosJ という Horos の日本語版だったのですが、2018年６月頃に 64bit 化に成功したことや ROI の UI を変えたり、RAW ファイルの読み込み機能を強化したり・・・と仕様が徐々に異なってきたため、HorliX と名称を変更しました。  
+Horos + OsiriX で HorliX です。  
+ニュージーランドの伝説の名馬 horlicks （オグリキャップに勝った馬）にも因んでいます。
   
-- fully 64bit software including libralies  
-- User Friendly UI(for exampl, ROI-color-roatation-UI)
--  and so on  
-  
- ‘HorliX’ was named after not only Horos/OsiriX but also ‘Horlicks’ , a female legendary race horse in NZ.
   
 ### Web Site
 
-English https://phazor.info/HorliX  
-Japanese https://phazor.info/HorliX-J  
+英語 https://phazor.info/HorliX  
+日本語 https://phazor.info/HorliX-J  
 
 ### Gallery
 
@@ -40,5 +35,8 @@ ROI-color-rotation-UI
 LGPLv3
   
   
-Hiroaki Inomata, MD  
-猪股弘明
+猪股弘明  
+精神科医師（精神保健指定医）
+日本精神神経学会ECT・rTMS等検討委員会委員    
+PHAZOR 合同会社  
+
