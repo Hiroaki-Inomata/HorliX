@@ -39,4 +39,6 @@ LGPLv3
 精神科医師（[精神保健指定医](https://hiroaki-inomata.fc2.net/blog-entry-16.html)）
 日本精神神経学会ECT・rTMS等検討委員会委員    
 [PHAZOR 合同会社](https://phazor.info/blog-ja/?page_id=2)  
+[フェイザー合同会社](https://phazor.jp/?page_id=149)
+
 
