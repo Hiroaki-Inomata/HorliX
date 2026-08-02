@@ -5,7 +5,7 @@
 HorliX/Horos は描画系はほぼすべて OpenGL に依存していますが、OpenGL は apple の公式見解は deprecated（非推奨）です。  
 PHORLIX の使用も検討ください。  
 軽快な 2D・3D グラフィクス、ネットワーク機能、ストレージ機能・・に加え、DICOM SR による ROI 保存・AI によるセグメンテーション機能などモダンな機能も追加されています。  
-PHORLIX [日本語案内ページ](https://phazor.info/HorliX-J/?page_id=1757) [英語案内ページ](https://phazor.info/HorliX-J/?page_id=1777). 
+PHORLIX [日本語案内ページ](https://phazor.info/HorliX-J/?page_id=1757) [英語案内ページ](https://phazor.info/HorliX-J/?page_id=1777)   
 [AppStore](https://apps.apple.com/jp/app/phorlix/id6789148582?mt=12)
 
 ### HorliX とは？
