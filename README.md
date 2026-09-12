@@ -9,7 +9,7 @@ PHORLIX [日本語案内ページ](https://phazor.info/HorliX-J/?page_id=1757) [
 [AppStore](https://apps.apple.com/jp/app/phorlix/id6789148582?mt=12). 
 
 ただし、HorliX のメンテナンスは続けられています。  
-Tahoe で動きますし（Golden Gate beta でも動きます）、Horos でよくある UI の崩れはありません。  
+Golden Gate で動きますし、Horos でよくある UI の崩れはありません。  
 日本語表示も問題ありません。  
 こちらの[ページ](https://phazor.info/HorliX-J/?page_id=1856)からダウンロードできます。
 
